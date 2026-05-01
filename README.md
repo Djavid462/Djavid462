@@ -1,16 +1,17 @@
-## Hi there 👋
+### Привет 👋
 
-<!--
-**Djavid462/Djavid462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Джавидан Мустафаев — backend-разработчик. Сейчас открыт к новым предложениям.
 
-Here are some ideas to get you started:
+**Стек:** Java, PostgreSQL, Docker, Redis
+**Опыт:** 5+ лет в backend, работал с [высоконагруженными API / микросервисами / fintech / etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Чем занимаюсь сейчас
+
+- Пилю pet-проект, чтобы держать руки в форме (см. закреплённые репозитории ниже)
+- Ищу позицию Backend Engineer Java
+
+### Связаться
+
+- LinkedIn: [linkedin.com/in/djavidan92](https://linkedin.com/in/djavidan92)
+- Telegram: [@Javist_dev](https://t.me/Javist_dev)
+- Email: Djavid9229@gmail.com
